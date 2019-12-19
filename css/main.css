@@ -20,12 +20,12 @@ html {
     display: flex;
     align-items: center;
     flex-flow: row wrap;
-    justify-content: center;
+    justify-content: flex-start
 }
 footer {
     display: flex;
     align-items: center;
-    justify-content: center;
+    
 }
 /*
  * Remove text-shadow in selection highlight:
